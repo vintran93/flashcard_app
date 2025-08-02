@@ -1,7 +1,8 @@
 ## Flashcards App
 A full-stack flashcards application that allows users to create, manage, and study sets of flashcards. It features a flipping card effect for interactive learning and separate sections for managing flashcard sets and individual cards. <br/>
 
-<img width="650" height="450" alt="image" src="https://github.com/user-attachments/assets/533c3bf4-98ff-4c83-b350-cc41357fd0ea" />
+<img width="650" height="450" alt="image" src="https://github.com/user-attachments/assets/89e227fe-d649-41d9-b84b-a2cdd8ce7e19" />
+
 
 ## The Flashcards App provides a user-friendly interface to: <br/>
 * Create and Manage Sets: Organize your flashcards into distinct sets. <br/>
